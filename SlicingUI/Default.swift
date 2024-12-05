@@ -17,6 +17,8 @@ extension Image{
     static let Poster7: Image = Image("Poster-7")
     static let Poster8: Image = Image("Poster-8")
     static let Poster9: Image = Image("Poster-9")
+    static let detailImg: Image = Image("detail-img")
+    static let PosterSpd: Image = Image("Poster-Spiderman")
 }
 
 extension Color{

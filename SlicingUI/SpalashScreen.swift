@@ -16,6 +16,7 @@ struct SpalashScreen: View {
             VStack {
                 Image.Poster1
             }
+            
         }
     }
 }

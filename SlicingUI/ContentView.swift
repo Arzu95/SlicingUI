@@ -26,9 +26,9 @@ struct ContentView: View {
                     Text("Watch List")
                 }
         }
+        .accentColor(.blue)
     }
 }
-
 
 
 
